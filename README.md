@@ -1,7 +1,7 @@
 # Hindi-Text-Summarization
 A Extractive Approach of Text summarization using frequency based and graph based model.
 
-The objective of this project was to explore and compare two different models for generating concise summaries of Hindi text documents. The two models considered are the term frequency-based model and the graph-based model. 
+The objective of this project is to explore and compare two different models for generating concise summaries of Hindi text documents. The two models considered are the term frequency-based model and the graph-based model. 
 
 The term frequency-based model involves the development of two sub-models. The first sub-model scores each sentence based on its frequency in the document, and an average score is calculated to determine a threshold value. Sentences with scores greater than the threshold are included in the final summary. This approach aims to capture the relevance and importance of each sentence based on its frequency within the text.
 
